@@ -1,4 +1,4 @@
-<h1 align="center">Simple Crud Laravel with DataBase</h1> 
+<h1 align="center">Cadastro com API de busca</h1> 
 
 
 ## Tecnologias utilizadas
@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando as tecnologias:
 ## Executar esse projeto no seu computador
 
 - Ter instalado o [Composer](https://getcomposer.org/Composer-Setup.exe)
-- Clonar Repositório: `git clone https://github.com/juliopurschel/crudLaravel.git`
+- Clonar Repositório: `git clone https://github.com/juliopurschel/LaravelSearchApi`
 
 Ir até o local do arquivo através do terminal e executar:
 
