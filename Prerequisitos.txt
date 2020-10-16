@@ -1,0 +1,22 @@
+Xampp/Wamp
+postgre database
+composer
+Laravel = composer create-project --prefer-dist laravel/laravel blog
+
+// Iniciando server
+php artisan serve
+
+// Criando Controllers
+php artisan make:controller TodoController --resource
+
+// Criando Models e -M para Migration
+php artisan make:model Models\\ModelTodo -m
+
+// Gerando tabelas no banco de dados
+php artisan migrate
+
+//Criando validação dos campos
+php artisan make:request TodoRequest
+
+
+https://jqueryui.com/dialog/#modal-form
